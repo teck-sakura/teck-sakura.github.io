@@ -2143,17 +2143,7 @@ margin: 0 2px;
 	height: 13px;
 }
 
-
-
-
-
-
 /*--------------- common ---------------*/
-
-
-
-
-
 
 
 main{
@@ -2166,7 +2156,7 @@ main{
 
 
 .cate-hero .inner{
-	background: url(/sakura_resources/sakurazuki_blog_header.jpg) no-repeat 50%;
+	background: url(/sakura_resources/start_over_blog_header.jpg) no-repeat 50%;
 	background-size: cover;
 	height: 90px;
 }
