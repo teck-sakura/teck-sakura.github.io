@@ -1,0 +1,788 @@
+<!doctype html>
+<html>
+<html lang="ja" itemscope itemtype="http://schema.org/Product">
+<head>
+<meta charset="utf-8"><meta name="keyword" content="櫻坂46,サクラザカ46,さくらざか46,sakuarzaka46,上村莉菜,小池美波,小林由依,齋藤冬優花,土生瑞穂,井上梨名,遠藤光莉,大園玲,大沼晶保,幸阪茉里乃,武元唯衣,田村保乃,藤吉夏鈴,増本綺良,松田里奈,森田ひかる,守屋麗奈,山﨑天" />
+<!-- Always force latest IE rendering engine or request Chrome Frame -->
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+<meta name="viewport" content="width=device-width">
+
+<!-- Use title if it's in the page YAML frontmatter -->
+
+<script src="/files/14/s46/js/jquery-3.4.1.min.js"></script>
+<script src="/files/14/s46/js/slick.js"></script>
+<script src="/files/14/s46/js/script_v11.js"></script>
+<script src="/files/14/s46/js/ticker_v2.js"></script>
+
+<link href="/files/14/s46/css/slick/slick.css" rel="stylesheet" type="text/css">
+<link href="/files/14/s46/css/slick/slick-theme.css" rel="stylesheet" type="text/css">
+
+<link href="/files/14/s46/css/component_v4.css" rel="stylesheet" type="text/css">
+<link href="/files/14/s46/css/elem_v8.css" rel="stylesheet" type="text/css">
+
+<link href="/files/14/s46/css/common_v11_14.css" rel="stylesheet" type="text/css">
+<link href="/files/14/s46/css/style_v21.css" rel="stylesheet" type="text/css">
+<link href="/files/14/s46/css/event.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/css/pc/style_pc.css?ima=0000" >
+<script src="/files/14/s46/fc/js/contents.js?ima=0000"></script>
+<link rel="stylesheet" type="text/css" media="all" href="/files/14/s46/fc/css/style_fc.css?ima=0000">
+
+
+<!--favicon-->
+<link rel="apple-touch-icon" sizes="57x57" href="/files/14/s46/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/files/14/s46/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/files/14/s46/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/files/14/s46/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/files/14/s46/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/files/14/s46/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/files/14/s46/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/files/14/s46/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/files/14/s46/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/files/14/s46/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/files/14/s46/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/files/14/s46/favicons/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/files/14/s46/favicons/favicon-16x16.png" sizes="16x16">
+
+<meta name="theme-color" content="#ffffff">
+
+<meta name="msvalidate.01" content="89C2C2F0FB184F8DEE411E63CEC11A63" />
+<script>
+var uid = '';
+</script>
+<!-- Google Tag Manager -->
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NFD6VJ7');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://j.wovn.io/1" data-wovnio="key=983u6c" async></script>
+<style>
+#nav_toggle{display:none;}
+</style>
+
+<meta name="description" content="櫻坂46公式サイト" />
+
+<meta property="og:title" content="櫻坂46公式サイト" />
+<meta property="og:description" content="7th Single『承認欲求』2023.10.18 OUT" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.sakurazaka46.com/" />
+<meta property="og:image" content="https://www.sakurazaka46.com/images/14/3c9/efbd0189687f24d6b02691b409c74.jpg" />
+<meta property="og:site_name" content="櫻坂46公式サイト" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="櫻坂46公式サイト"/>
+<meta name="twitter:description" content="7th Single『承認欲求』2023.10.18 OUT"/>
+<meta name="twitter:image:src" content="https://www.sakurazaka46.com/images/14/3c9/efbd0189687f24d6b02691b409c74.jpg"/>
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@sakurazaka46">
+<meta name="twitter:creator" content="@sakurazaka46">
+<meta name="twitter:domain" content="sakurazaka46.com">
+
+<meta property="fb:app_id" content="64045407260481" />
+
+
+
+<style>
+.news-detailcont .post {
+    text-align:  left;
+}
+</style>
+
+<title>7thシングル『承認欲求』TYPE-Cに収録の三期生個人PV・予告編公開！ | ニュース | 櫻坂46公式サイト</title>
+</head>
+<body  id="cate-member" class="single">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NFD6VJ7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<header class="wid100">
+    <div class="inner fxpc">
+        <div class="head-logo"><a href="/s/s46/?ima=0000"><img class="chgimg" src="/files/14/s46/img/com-logo_pc.svg" alt="櫻坂46"></a></div>
+        <nav class="drawer-nav">
+            <div class="nav-inner">
+                <ul class="nav fx hc wf-a">
+                    <li class="title sp">OFFICIAL</li>
+                    <li class="home"><a href="/s/s46/?ima=0000">HOME</a></li>
+                    <li><a href="/s/s46/news/list?ima=0000&dy=202311">NEWS</a></li>
+                    <li class="pc"><a href="/s/s46/media/list?ima=0000">SCHEDULE</a></li>
+                    
+                    <li><a href="/s/s46/search/artist?ima=0000">MEMBER</a></li>
+                    <li><a href="/s/s46/page/formation?ima=0000">FORMATION</a></li>
+                    <li><a href="/s/s46/diary/blog?ima=0000">BLOG</a></li>
+                    <li><a href="/s/s46/artist/00/discography?ima=0000">DISCOGRAPHY</a></li>
+                    <li><a href="/s/s46/diary/tv2?ima=0000">TV</a></li>
+                    <li><a href="/s/s46/diary/event_page/list?ima=0000">MEET&GREET</a></li>
+                    <li><a href="/s/s46/contents_list?ima=0000&cd=132">VIDEO</a></li>
+                    <li><a href="/s/s46/diary/live_page/list?ima=0000">LIVE</a></li>
+                    <li><a href="https://store.plusmember.jp/sakurazaka46/" target="_blank">GOODS</a></li>
+                    <li><a href="/s/s46/page/about_fanclub?ima=0000">FANCLUB</a></li>
+                    <li style="color: #F19DB5;"><a href="/s/s46/item/list?ima=0000">FC GOODS</a></li>
+                </ul>
+
+                <ul class="nav fx hc wf-a fc sp" wovn-ignore>
+                    <li class="title sp">FANCLUB</li>
+                    <li><a href="/s/s46/group/list?ima=0000&dy=202311">FC NEWS</a></li>
+                    <li><a href="/s/s46/page/sakucolle?ima=0000">SAKUCOLLE</a></li>
+                    <li><a href="/s/s46/diary/radio?ima=0000">SAKUMIMI</a></li>
+                    <li><a href="/s/s46/diary/managers_diary/list?ima=0000">MANAGER'S DIARY</a></li>
+                    <li><a href="/s/s46/page/history?ima=0000">HISTORY</a></li>
+                    <li><a href="/s/s46/page/costume?ima=0000">COSTUME</a></li>
+                    <li><a href="/s/s46/page/wallpaper?ima=0000">WALLPAPER</a></li>
+                    <li><a href="/s/s46/ticket/list?ima=0000&ct=ticket&so=NW">TICKET</a></li>
+                    <li><a href="/s/s46/diary/fc_movie/list?ima=0000">FC MOVIE</a></li>
+                    <li><a href="/s/s46/item/list?ima=0000">FC GOODS</a></li>
+                    <li><a href="/s/s46/mypage?ima=0000">MY PAGE</a></li>
+                    <li><a href="/s/s46/page/fc_archive?ima=0000">KEYAKIZAKA46 ARCHIVE</a></li>
+                </ul>
+            </div>
+        </nav>
+
+        <span id="hamnav">
+        <nav class="drawer-nav nav_v2" style="left: 100%;">
+            <div class="nav-inner">
+                <ul class="nav fx hc wf-a">
+                    <li class="title sp">OFFICIAL</li>
+                    <li class="home"><a href="/s/s46/?ima=0000">HOME</a></li>
+                    <li><a href="/s/s46/news/list?ima=0000&dy=202311">NEWS</a></li>
+                    <li class="pc"><a href="/s/s46/media/list?ima=0000">SCHEDULE</a></li>
+                    
+                    <li><a href="/s/s46/search/artist?ima=0000">MEMBER</a></li>
+                    <li><a href="/s/s46/page/formation?ima=0000">FORMATION</a></li>
+                    <li><a href="/s/s46/diary/blog?ima=0000">BLOG</a></li>
+                    <li><a href="/s/s46/artist/00/discography?ima=0000">DISCOGRAPHY</a></li>
+                    <li><a href="/s/s46/diary/tv2?ima=0000">TV</a></li>
+                    <li><a href="/s/s46/diary/event_page/list?ima=0000">MEET&GREET</a></li>
+                    <li><a href="/s/s46/contents_list?ima=0000&cd=132">VIDEO</a></li>
+                    <li><a href="/s/s46/diary/live_page/list?ima=0000">LIVE</a></li>
+                    <li><a href="https://store.plusmember.jp/sakurazaka46/" target="_blank">GOODS</a></li>
+                    <li><a href="/s/s46/page/about_fanclub?ima=0000">FANCLUB</a></li>
+                    <li><a href="/s/s46/diary/archive/list?ima=0000">ARCHIVE</a></li>
+                </ul>
+
+                <ul class="nav fx hc wf-a fc sp" wovn-ignore>
+                    <li class="title sp">FANCLUB</li>
+                    <li><a href="/s/s46/group/list?ima=0000&dy=202311">FC NEWS</a></li>
+                    <li><a href="/s/s46/page/sakucolle?ima=0000">SAKUCOLLE</a></li>
+                    <li><a href="/s/s46/diary/radio?ima=0000">SAKUMIMI</a></li>
+                    <li><a href="/s/s46/diary/managers_diary/list?ima=0000">MANAGER'S DIARY</a></li>
+                    <li><a href="/s/s46/page/history?ima=0000">HISTORY</a></li>
+                    <li><a href="/s/s46/page/costume?ima=0000">COSTUME</a></li>
+                    <li><a href="/s/s46/page/wallpaper?ima=0000">WALLPAPER</a></li>
+                    <li><a href="/s/s46/ticket/list?ima=0000&ct=ticket&so=NW">TICKET</a></li>
+                    <li><a href="/s/s46/diary/fc_movie/list?ima=0000">FC MOVIE</a></li>
+                    <li><a href="/s/s46/item/list?ima=0000">FC GOODS</a></li>
+                    <li><a href="/s/s46/mypage?ima=0000">MY PAGE</a></li>
+                    <li><a href="/s/s46/page/fc_archive?ima=0000">KEYAKIZAKA46 ARCHIVE</a></li>
+                </ul>
+                <div id="js-menu_loign" style="width: 100%;"></div>
+            </div>
+        </nav>
+        </span>
+    </div>
+    <div id="nav_toggle"><div><span></span><span></span><span></span></div></div>
+</header><main class="site-main">
+  <div class="cate-hero wid1200">
+    <div class="inner fx r-vc hc">
+      <h2 class="title wf-a">NEWS</h2>
+    </div>
+  </div>
+  <div class="com-hero-nav wid1200 pc">
+    <ul class="inner fx r-vc hc">
+      <li class="cate-all">
+        <a href="/s/s46/news/list?ima=0000&dy=202311">ALL</a>
+      </li>
+      <li class="cate-shakehands">
+        <a href="/s/s46/news/list?ima=0000&cd=shakehands&dy=202311">握手会</a>
+      </li>
+      <li class="cate-event">
+        <a href="/s/s46/news/list?ima=0000&cd=event&dy=202311">イベント情報</a>
+      </li>
+      <li class="cate-goods">
+        <a href="/s/s46/news/list?ima=0000&cd=goods&dy=202311">グッズ</a>
+      </li>
+      <li class="cate-release">
+        <a href="/s/s46/news/list?ima=0000&cd=release&dy=202311">リリース</a>
+      </li>
+      <li class="cate-ticket">
+        <a href="/s/s46/news/list?ima=0000&cd=ticket&dy=202311">チケット</a>
+      </li>
+      <li class="cate-media">
+        <a href="/s/s46/news/list?ima=0000&cd=media&dy=202311">メディア</a>
+      </li>
+      <li class="cate-fanclub">
+        <a href="/s/s46/news/list?ima=0000&cd=fanclub&dy=11">ファンクラブ</a>
+      </li>
+      <li class="cate-audition">
+        <a href="/s/s46/news/list?ima=0000&cd=audition&dy=202311">オーディション</a>
+      </li>
+      <li class="cate-other">
+        <a href="/s/s46/news/list?ima=0000&cd=other&dy=202311">その他</a>
+      </li>
+      <li class="cate-member memberselect-modal"><a href="#">メンバーを選択</a></li>
+    </ul>
+  </div>
+  <div class="col3-wrap wid1200 news-detailcont">
+    <div class="col-c post">
+      <div class="com-news-part">
+        <div class="cate-release box">
+          <div class="title-part fx r-vc">
+            <p class="type">リリース</p>
+            <p class="date wf-a">2023.10.12</p>
+          </div>
+          <p class="lead">7thシングル『承認欲求』TYPE-Cに収録の三期生個人PV・予告編公開！</p>
+          <div class="article">
+<span>10月18日(水)発売の7thシングル『承認欲求』TYPE-C収録特典映像「櫻坂46 三期生個人PV<span>」の予告編</span><span>を櫻坂46 Official YouTubeチャンネルにて公開しました！是非チェックしてください！</span></span><br /><br /><br /><span>■<span>櫻坂<span lang="EN-US">46&nbsp;</span>石森璃花『璃花ちゃん、まだまだ未完成であります！』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/9mNtT7XK9OA" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br />■櫻坂46 遠藤理子『リコリズム』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/PSJo_YKvZ8Q" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br />■櫻坂46 小田倉麗奈『オダクラップ』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/UQB4VT9atd4" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br />■櫻坂46 小島凪紗『アドリブ高校３年Ｓ組 凪紗先生』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/7RIGGPB7ac0" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br />■櫻坂46 谷口愛季『私にバイバイ』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/yz1s6bHuHus" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br />■櫻坂46 中嶋優月『美しい花には棘がある』<br /><iframe width="560" height="315" src="//www.youtube.com/embed/cR6VotbPWus" frameborder="0" allowfullscreen="allowfullscreen"></iframe><br /><br /><br /></span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-r pc">
+      <div class="news-wdget-area">
+        <div class="com-title-ej">
+          <p class="part-eigo wf-a">NEW ENTRY</p>
+          <p class="part-jp">最新ニュース</p>
+        </div>
+<ul class="com-news-part type-catenews"><li class="cate-release box">
+    <a class="" href="/s/s46/news/detail/R00281?ima=0000">
+        <div class="title-part fx r-vc">
+            <p class="type">リリース</p>
+            <p class="date wf-a">2023.11.25</p>
+        </div>
+        <p class="lead">「3rd YEAR ANNIVERSARY LIVE」開催記念！土生瑞穂によるプレイリスト公開！</p>
+    </a>
+</li><li class="cate-media box">
+    <a class="" href="/s/s46/news/detail/M01044?ima=0000">
+        <div class="title-part fx r-vc">
+            <p class="type">メディア</p>
+            <p class="date wf-a">2023.11.23</p>
+        </div>
+        <p class="lead">「櫻坂チャンネル」にて『【花火】一期生の「SAKURA HOUSE ～朝のお散歩編～」』を公開！</p>
+    </a>
+</li><li class="cate-event box">
+    <a class="" href="/s/s46/news/detail/E00294?ima=0000">
+        <div class="title-part fx r-vc">
+            <p class="type">イベント</p>
+            <p class="date wf-a">2023.11.23</p>
+        </div>
+        <p class="lead">櫻坂46「3rd YEAR ANNIVERSARY LIVE」防寒についてのお知らせ</p>
+    </a>
+</li></ul>
+      </div>
+    </div>
+    <div class="col-l">
+      <div class="com-calendlist pc">
+        <ul class="yearly">
+<li>
+            <p class="btn-accordion">2023年<span class="com-plubox"></span></p>
+            <ul class="part box-accordion"><li><a href="/s/s46/news/list?ima=0000&dy=202311">11月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202310">10月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202309">09月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202308">08月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202307">07月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202306">06月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202305">05月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202304">04月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202303">03月</a></li><li><a href="/s/s46/news/list?ima=0000&dy=202302">02月</a></li></ul>
+          </li>
+        </ul>
+      </div>
+      <div class="btn-wrap center sp">
+        <p class="btn-type1 rev"><a href="/s/s46/news/list?ima=0000&dy=202311">ニュース一覧へ</a></p>
+      </div>      
+    </div>
+  </div>
+
+</main>
+<form id="pageForm" name="pageForm" method="post" action="/s/s46/news/list" target="_self">
+  <input type="hidden" name="dummy1" value="" />
+  <div class="module-modal js-member-filter">
+    <div class="bg"></div>
+    <div class="mordal-box">
+      <div class="sort-box">
+      </div>
+      <div class="check-box">
+        <div class="check-all">
+          <p>
+            <i class="fa fa-check"></i><a href="#.html">全員を選択する</a>
+          </p>
+        </div>
+        <div class="check-all_not">
+          <p>
+            <i class="fa fa-close"></i><a href="#.html">選択を全て解除する</a>
+          </p>
+        </div>
+      </div>
+      <div class="member-box">
+        <ul>
+<li data-member="03">
+          <div class="box-img">
+            <img src="/images/14/726/79006981e56177447b71c33190841/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="03" id="03"><label for="03">上村 莉菜</label>
+          </p>
+        </li><li data-member="06">
+          <div class="box-img">
+            <img src="/images/14/ba2/0db686fcd5c8325202f7915dbdc85/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="06" id="06"><label for="06">小池 美波</label>
+          </p>
+        </li><li data-member="07">
+          <div class="box-img">
+            <img src="/images/14/1e6/3b7ef7a782fc2af88dc39e03c084a/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="07" id="07"><label for="07">小林 由依</label>
+          </p>
+        </li><li data-member="08">
+          <div class="box-img">
+            <img src="/images/14/6aa/e03acf1dfb78bd43aa2aff8d51675/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="08" id="08"><label for="08">齋藤 冬優花</label>
+          </p>
+        </li><li data-member="14">
+          <div class="box-img">
+            <img src="/images/14/427/d0041b0ca6fd4dcadf80b769a1584/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="14" id="14"><label for="14">土生 瑞穂</label>
+          </p>
+        </li>
+<li data-member="43">
+          <div class="box-img">
+            <img src="/images/14/4a1/d103030f89110da7bfbce18f37ecd/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="43" id="43"><label for="43">井上 梨名</label>
+          </p>
+        </li><li data-member="53">
+          <div class="box-img">
+            <img src="/images/14/715/4b076fb69c1e2e38b0af09c84fe9d/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="53" id="53"><label for="53">遠藤 光莉</label>
+          </p>
+        </li><li data-member="54">
+          <div class="box-img">
+            <img src="/images/14/12e/6a6ee272fe6b77b833bf431ff64ee/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="54" id="54"><label for="54">大園 玲</label>
+          </p>
+        </li><li data-member="55">
+          <div class="box-img">
+            <img src="/images/14/d52/1c4191227ef2a2137d21f2cf935da/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="55" id="55"><label for="55">大沼 晶保</label>
+          </p>
+        </li><li data-member="56">
+          <div class="box-img">
+            <img src="/images/14/ab7/d49c89d259f6a5be37a87576b959c/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="56" id="56"><label for="56">幸阪 茉里乃</label>
+          </p>
+        </li><li data-member="45">
+          <div class="box-img">
+            <img src="/images/14/40a/15a576623e81b24448d10f8c05d46/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="45" id="45"><label for="45">武元 唯衣</label>
+          </p>
+        </li><li data-member="46">
+          <div class="box-img">
+            <img src="/images/14/0ff/b591b6720f3424321d98bbf8c33bb/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="46" id="46"><label for="46">田村 保乃</label>
+          </p>
+        </li><li data-member="47">
+          <div class="box-img">
+            <img src="/images/14/d77/dedcac4dfda097981a44110a4ee46/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="47" id="47"><label for="47">藤吉 夏鈴</label>
+          </p>
+        </li><li data-member="57">
+          <div class="box-img">
+            <img src="/images/14/53f/2f7c122dd8ae81605c76316d5c4ef/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="57" id="57"><label for="57">増本 綺良</label>
+          </p>
+        </li><li data-member="48">
+          <div class="box-img">
+            <img src="/images/14/a16/dc22d91fec41d203e1374e2561277/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="48" id="48"><label for="48">松田 里奈</label>
+          </p>
+        </li><li data-member="50">
+          <div class="box-img">
+            <img src="/images/14/a35/201d09db10af6d4cba8978cf81539/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="50" id="50"><label for="50">森田 ひかる</label>
+          </p>
+        </li><li data-member="58">
+          <div class="box-img">
+            <img src="/images/14/4dd/117f6c8c9914e013e8cccb3da7a19/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="58" id="58"><label for="58">守屋 麗奈</label>
+          </p>
+        </li><li data-member="51">
+          <div class="box-img">
+            <img src="/images/14/ea0/aed952c547c88b2f2c1cf15faa177/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="51" id="51"><label for="51">山﨑 天</label>
+          </p>
+        </li>
+<li data-member="59">
+          <div class="box-img">
+            <img src="/images/14/024/e9ff364538b53f4f64af66ddfb89f/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="59" id="59"><label for="59">石森 璃花</label>
+          </p>
+        </li><li data-member="60">
+          <div class="box-img">
+            <img src="/images/14/34d/f4eeb3d9150acec97d64604764520/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="60" id="60"><label for="60">遠藤 理子</label>
+          </p>
+        </li><li data-member="61">
+          <div class="box-img">
+            <img src="/images/14/143/b12cd9b613308a0bcc5516f6635cc/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="61" id="61"><label for="61">小田倉 麗奈</label>
+          </p>
+        </li><li data-member="62">
+          <div class="box-img">
+            <img src="/images/14/842/73cd105bf3acf943503d8249d69e4/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="62" id="62"><label for="62">小島 凪紗</label>
+          </p>
+        </li><li data-member="63">
+          <div class="box-img">
+            <img src="/images/14/657/78c9bd4583fd46cbc3bc9d8c4f96a/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="63" id="63"><label for="63">谷口 愛季</label>
+          </p>
+        </li><li data-member="64">
+          <div class="box-img">
+            <img src="/images/14/426/c1264b9ec29863c38c82bf2780aea/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="64" id="64"><label for="64">中嶋 優月</label>
+          </p>
+        </li><li data-member="65">
+          <div class="box-img">
+            <img src="/images/14/817/d8b7d6718b7678cd64c2ef534888d/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="65" id="65"><label for="65">的野 美青</label>
+          </p>
+        </li><li data-member="66">
+          <div class="box-img">
+            <img src="/images/14/8d5/61847e259865fe1919810e895f9d5/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="66" id="66"><label for="66">向井 純葉</label>
+          </p>
+        </li><li data-member="67">
+          <div class="box-img">
+            <img src="/images/14/014/85934b74e9016b55f1d540d0dc215/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="67" id="67"><label for="67">村井 優</label>
+          </p>
+        </li><li data-member="68">
+          <div class="box-img">
+            <img src="/images/14/ecc/ea84236bf5d5d9314d3c4443aa436/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="68" id="68"><label for="68">村山 美羽</label>
+          </p>
+        </li><li data-member="69">
+          <div class="box-img">
+            <img src="/images/14/b28/8113a5e1360897f54e569b7774dc1/400_320_102400.jpg" />
+          </div>
+          <p class="check">
+            <input type="checkbox" name="list[]" value="69" id="69"><label for="69">山下 瞳月</label>
+          </p>
+        </li>
+        </ul>
+      </div>
+      <div class="btn-box">
+        <div class="btn-decision">
+          <a href="javascript:doSubmit('dy','');" onclick="javascript:doSubmit('dy','');">決定する</a>
+        </div>
+      </div>
+    </div>
+  </div>
+<input type="hidden" name="ima" value="0000" />
+
+</form>
+
+<script>
+function doSubmit(nam,val) {
+  console.log("nam",nam)
+  console.log("val",val)
+  console.log("document.pageForm.elements[nam]",document.pageForm.elements[nam])
+  if (document.pageForm.elements[nam]) {
+    console.log("test");
+    document.pageForm.elements[nam].value = val;
+  } else {
+    console.log("test2");
+    document.pageForm.elements[0].name = nam;
+    document.pageForm.elements[0].value = val;
+  }
+  document.pageForm.submit();
+}
+
+function NextMonth(){
+  objDate = new Date('//01');
+  y = objDate.getFullYear();
+  m = objDate.getMonth()+1;
+  if (m==12) { m= 1;y++; }else{m++;}
+ ym = y + fillZero(m);
+ return ym;
+}
+
+function BackMonth(){
+  objDate = new Date('//01');
+  y = objDate.getFullYear();
+  m = objDate.getMonth()-1;
+  if (m< 0) { m= 12;y--; }else{m++;}
+ ym = y + fillZero(m);
+ return ym;
+}
+
+function fillZero(numb) {
+  numb += "";
+  if (numb.length === 1) {
+    numb= "0" + numb;
+  }
+ return numb;     
+}
+
+$(document).ready(function() {
+  objDate = new Date('//01');
+  y = objDate.getFullYear();
+  m = objDate.getMonth()+1;
+  if (m==12) { m= 1;y++; }else{m++;}
+ ym = y + fillZero(m);
+ if(202311 < ym){
+  $('.next-month').empty();
+  $('.next-month').addClass("empty");
+   }
+});
+    $('.js-member-filter .check-all').on('click', function(event) {
+      allCheck();
+    });
+    $('.js-member-filter .check-all_not').on('click', function(event) {
+      allRemoveCheck();
+    });
+
+  function allCheck() {
+    $('.js-member-filter .member-box li:not(.hidden) input[type="checkbox"]').prop('checked', true).trigger('change');
+  }
+
+  function allRemoveCheck() {
+    $('.js-member-filter .member-box li input[type="checkbox"]').prop('checked', false).trigger('change');
+  }
+    $('.js-member-filter .member-box .box-img').on('click', function(event) {
+      var id =  $(event.target).closest('li').attr('data-member');
+      var checked = $("#"+id+"").prop('checked');
+      if (!checked) {
+        $("#"+id+"").prop('checked',true);
+        $(event.target).closest('li').addClass('checked');
+       
+      }
+      else {
+        $(event.target).closest('li').removeClass('checked');
+        $("#"+id+"").prop('checked',false);
+        $("#pageForm input[name='list[]'][type='hidden'][value='"+id+"']").remove();
+      }
+    });
+
+    $('.js-member-filter .member-box input[type="checkbox"]').on('change', function(event) {
+      var checked = $(event.target).prop('checked');
+      if (checked) {
+        $(event.target).closest('li').addClass('checked');
+      }
+      else {
+        $(event.target).closest('li').removeClass('checked');
+        var id =  $(event.target).val();
+        $("#pageForm input[name='list[]'][type='hidden'][value='"+id+"']").remove();
+      }
+    });
+</script>
+
+    <footer>
+        <div class="top-ftbnrs">
+        </div>
+        <div class="inner wid1200 fxpc f-just">
+            <ul class="nav fx">
+                <li><a href="/s/s46/page/about?ima=0000">櫻坂46とは?</a></li>
+                <li><a href="/s/s46/page/producer?ima=0000">PRODUCER</a></li>
+                <li><a href="/s/s46/page/faq?ima=0000">FAQ</a></li>
+                <li><a href="/s/s46/inquiry?ima=0000">お問い合わせ</a></li>
+                <li><a href="/s/s46/diary/archive/list?ima=0000">アーカイブ</a></li>
+                <li><a href="https://www.keyakizaka46.com/s/k46o/?ima=0000">欅坂46オフィシャルサイト</a></li>
+            </ul>
+            <div class="jas fx r-vc">
+                <p class="txt">JASRAC許諾第6709411244Y45037号<br>JASRAC許諾第9018170002Y31018号</p>
+                <img src="/files/14/s46/img/jasrac.jpg" alt="">
+            </div>
+        </div>
+    </footer>
+
+
+<script>
+$(document).ready(function () {
+
+  if ($("#js-menu_loign").length > 0) {
+    var retries2 = 0; // 現在のリトライ回数
+    var retryTime2 = 1000; // リトライの間隔 ミリ秒
+    var defer2 = $.Deferred();
+    $.ajax({
+      type: 'get',
+      dataType: 'JSON',
+      url: "/s/s46/api/page/message",
+      data: { cd: ["menu_loign"] },
+      success: function (data) {
+        var section_fanclub_top_Obj = $("#js-menu_loign");
+        section_fanclub_top_Obj.html(data[0].body);
+        //console.log("true2");
+        defer2.resolve;
+      },
+      error: function (jqXHR, textStatus, errorThrown) {
+        // Error
+        //console.log("Error2");
+
+        if(retries2 < maxRetries){
+            var _this = this;
+            retryTime2 = retryTime2 * 2; // リトライを繰り返すごとにリトライ間隔を延長します
+            _this.timeout = retryTime2;
+            //console.warn("Connection Faild. Retry After " + retryTime2 + " (ms)");
+
+            retries2++;
+            setTimeout(function(){ $.ajax(_this) }, retryTime2); // retry begin
+          } else {
+            //console.warn("Connection Timeout.");
+            //console.warn(jqXHR.status + " " + jqXHR.statusText);
+
+            defer2.reject(); // retry end
+          }
+        }
+    });
+    defer2.promise();
+    //console.log("defer2.promise");
+  }
+});
+</script>
+
+<script> 
+ $(function(){
+    $("body").on("contextmenu",function(){
+      return false;
+    });
+    $("body").on("MouseDown",function(){
+      return false;
+    });
+    $("body").on("SelectStart",function(){
+      return false;
+    });
+    $("img").not('.copy_permission').attr("onmousedown","return false");
+    $("img").not('.copy_permission').attr("onselectstart", "return false");
+    $("img").not('.copy_permission').attr("oncontextmenu","return false");
+
+
+  });
+/*
+document.onkeydown = function onKeyDown(event)   {
+
+  if (event.ctrlKey == true && event.keyCode == 83) {//Ctrl+S
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 69) {//Ctrl+E
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 85) {//Ctrl+U
+    return false;
+  }
+
+  if (event.ctrlKey == true && event.keyCode == 73 ) {//Ctrl+I
+    return false;
+  }
+  if (event.keyCode == 18 && event.keyCode == 73 ) {//Alt+I
+    return false;
+  }
+  if (event.keyCode == 123 ) {//F12
+    return false;
+  }
+}*/
+document.querySelectorAll("img").forEach(el => el.addEventListener("touchforcechange", e => {
+  if (!e.touches || !e.touches[0]) return
+
+  if (e.touches[0].force > 0.15) {
+    e.preventDefault()
+  }
+}))
+</script>
+
+<style>
+img{
+  -webkit-touch-callout:none;
+  -ms-user-select: none;
+  -webkit-user-select:none;
+  user-select:none;
+  -webkit-touch-callout:none;
+  -moz-touch-callout:none;
+  touch-callout:none;
+  -webkit-user-drag:none;
+  -khtml-user-drag:none;
+  user-drag:none;
+}
+</style>
+<script>
+window.onload = function() {
+setTimeout(function() {
+const agent = window.navigator.userAgent;
+console.log(agent);
+if (agent.indexOf("APPWebview") != -1) {
+document.querySelector("header").style.display = "none";
+document.querySelector("footer").style.display = "none";
+const navtop = document.querySelector('#nav_toggle');
+const thummenu = document.querySelector('.fc_fixed_menu');
+if( navtop != null){navtop.style.display = "none!important";}
+if( thummenu != null){
+thummenu.removeAttribute('style');
+thummenu.style.setProperty('display', 'none', 'important');
+}
+}else{
+const navtop = document.querySelector('#nav_toggle');
+if( navtop != null){
+        navtop.style.opacity = "0";
+        navtop.style.display = "block";
+        navtop.style.transition = "opacity 1s";
+        setTimeout(function() {
+          navtop.style.opacity = "1";
+        }, 1000);
+}
+}
+}, 10); 
+}
+
+</script>
+</body>
+</html>
